@@ -1,1 +1,2 @@
-# gren
+<p align="center"><img src="https://64.media.tumblr.com/433b15681034f252b51a04053445d4a9/185e017d4818800f-c8/s2048x3072/34e37d3ada4d82b02a33b781306373d6215c3530.pnj">
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
